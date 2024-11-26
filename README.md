@@ -40,7 +40,6 @@ trash.txt: Example input file that contains trash data.
 
 To compile the program, use the following command:
 
-bash
 g++ -c Trash.cpp -o Trash.o       # Compile Trash.cpp
 g++ -c main.cpp -o main.o         # Compile main.cpp
 g++ Trash.o main.o -o trashSorter # Link object files to create executable
@@ -49,21 +48,20 @@ g++ Trash.o main.o -o trashSorter # Link object files to create executable
 
 To run the program:
 
-bash
 ./trashSorter
 
 **Example Output**
 
 The program will output something similar to this:
 
-There are 7items collected :
-        Bottle, 0.5lb
-        Newspaper, 1.2lb
-        SodaCan, 0.3lb
-        WineGlass, 0.4lb
-        BananaPeel, 0.1lb
-        GrassClippings, 0.8lb
-        OldShoe, 1.5lb
+There are 7 items collected:
+    Plastic Bottle, 0.5lb
+    Newspaper, 1.2lb
+    SodaCan, 0.3lb
+    WineGlass, 0.4lb
+    BananaPeel, 0.1lb
+    GrassClippings, 0.8lb
+    OldShoe, 1.5lb
 
 Let's dispose all!
         I am Bottle! I weigh 0.5lb. I am Recyclable! Please remove the label, crush me, and place me in the plastic bin.
