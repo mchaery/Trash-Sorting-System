@@ -11,7 +11,8 @@ After all trash is collected, it displays the current status, showing the trash 
 The program then disposes of the trash, displaying specific disposal instructions for each item based on its type.
 Finally, the trash objects are deleted to release memory.
 
-Features
+**Features**
+
 **Trash Sorting**: The program categorizes trash into three main categories: recyclable, organic, and landfill waste. Each category has specific disposal instructions.
 
 **File Input**: The trash items are read from a text file (trash.txt), which specifies the type, name, and weight of each item. The file format is as follows:
@@ -25,7 +26,8 @@ Trash Paper Newspaper 1.2
 
 **Disposal Instructions**: Once all trash items are collected, the program will dispose of them according to their type, with disposal instructions such as "Please rinse me and place me in the glass bin."
 
-Files
+**Files**
+
 Trash.h: Header file containing the class declarations.
 
 Trash.cpp: Implementation of the Trash and derived classes (Recyclable, Organic, Landfill, etc.) with the dispose method that outputs disposal instructions.
@@ -34,7 +36,8 @@ main.cpp: Main program file that handles reading from the input file, sorting tr
 
 trash.txt: Example input file that contains trash data. 
 
-Compilation
+**Compilation**
+
 To compile the program, use the following command:
 
 bash
@@ -42,13 +45,15 @@ g++ -c Trash.cpp -o Trash.o       # Compile Trash.cpp
 g++ -c main.cpp -o main.o         # Compile main.cpp
 g++ Trash.o main.o -o trashSorter # Link object files to create executable
 
-Running
+**Running**
+
 To run the program:
 
 bash
 ./trashSorter
 
-Example Output
+**Example Output**
+
 The program will output something similar to this:
 
 There are 7items collected :
