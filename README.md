@@ -1,8 +1,10 @@
 # Trash-Sorting-System
 **Overview**
+
 This project implements a trash sorting system that categorizes and disposes of waste into different types: Recyclable, Organic, and Landfill. The program is designed to read data from a file (trash.txt), collect various types of trash, print the status of the collected trash, and then dispose of them with specific disposal instructions.
 
 **How It Works**
+
 The program first opens the file trash.txt and reads the trash data.
 It then categorizes the trash into one of the three categories (Recyclable, Organic, Landfill).
 After all trash is collected, it displays the current status, showing the trash items and their weights.
