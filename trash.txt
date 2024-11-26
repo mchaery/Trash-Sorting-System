@@ -1,0 +1,9 @@
+Trash Plastic Bottle 0.5
+Trash Paper Newspaper 1.2
+Trash Can SodaCan 0.3
+Trash Glass WineGlass 0.4
+Trash FoodWaste BananaPeel 0.1
+Trash GardenWaste GrassClippings 0.8
+Trash Landfill OldShoe 1.5
+Status
+Dispose
