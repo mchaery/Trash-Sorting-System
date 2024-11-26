@@ -9,7 +9,7 @@ The program first opens the file trash.txt and reads the trash data.
 It then categorizes the trash into one of the three categories (Recyclable, Organic, Landfill).
 After all trash is collected, it displays the current status, showing the trash items and their weights.
 The program then disposes of the trash, displaying specific disposal instructions for each item based on its type.
-Finally, the trash objects are deleted to release memory.
+Finally, the trash objects are deleted to release the heap memory.
 
 
 **Features**
