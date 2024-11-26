@@ -44,7 +44,9 @@ trash.txt: Example input file that contains trash data.
 To compile the program, use the following command:
 
 g++ -c Trash.cpp -o Trash.o       # Compile Trash.cpp
+
 g++ -c main.cpp -o main.o         # Compile main.cpp
+
 g++ Trash.o main.o -o trashSorter # Link object files to create executable
 
 **Running**
