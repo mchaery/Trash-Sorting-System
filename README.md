@@ -53,35 +53,5 @@ To run the program:
 **Example Output**
 
 The program will output something similar to this:
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/d7dd27cc-7ec8-4637-9fe9-16986c2b9be0">
 
-There are 7 items collected:
-    Plastic Bottle, 0.5lb
-    Newspaper, 1.2lb
-    SodaCan, 0.3lb
-    WineGlass, 0.4lb
-    BananaPeel, 0.1lb
-    GrassClippings, 0.8lb
-    OldShoe, 1.5lb
-
-Let's dispose all!
-        I am Bottle! I weigh 0.5lb. I am Recyclable! Please remove the label, crush me, and place me in the plastic bin.
-        [ Bottle is disposed ]
-
-        I am Newspaper! I weigh 1.2lb. I am Recyclable! Please flatten me and place me in the paper bin.
-        [ Newspaper is disposed ]
-
-        I am SodaCan! I weigh 0.3lb. I am Recyclable! Please rinse me, crush me, and place me in the can bin.
-        [ SodaCan is disposed ]
-
-        I am WineGlass! I weigh 0.4lb. I am Recyclable! Please rinse me and place me in the glass bin.
-        [ WineGlass is disposed ]
-
-        I am BananaPeel! I weigh 0.1lb. I am Organic! Please place me in the compost bin.
-        [ BananaPeel is disposed ]
-
-        I am GrassClippings! I weigh 0.8lb. I am Organic! Please place me in the green bin for composting.
-        [ GrassClippings is disposed ]
-
-        I am OldShoe! I weigh 1.5lb. I am Landfill! Please dispose of me in the landfill bin.
-        [ OldShoe is disposed ]
-        
